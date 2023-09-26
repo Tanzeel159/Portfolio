@@ -1,6 +1,6 @@
-baseURL: "https://arkalim.org"
+baseURL: "https://da7b697e.portfolio-89m.pages.dev/"
 languageCode: en-us
-title: Abdur Rahman
+title: Tanzeel
 theme: PaperMod
 
 menu:
@@ -9,26 +9,30 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
+    - identifier: experience
+      name: Experience
+      url: /experience
       weight: 20
     - identifier: projects
       name: Projects
       url: /projects
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
+    - identifier: Case Study
+      name: Case Study
+      url: /case study
       weight: 40
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 50
     - identifier: search
       name: Search
       url: /search
-      weight: 50
-    # - identifier: tags
-    #   name: Tags
-    #   url: /tags
-    #   weight: 60
+      weight: 60
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 70
     # - identifier: notes
     #   name: Notes
     #   url: https://notes.arkalim.org
@@ -48,9 +52,9 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋! I'm Abdur, an ambitious DevOps Intern at [**16Bit.ai**](https://www.16bit.ai), an innovative healthcare startup in Toronto. Currently pursuing my [**MSc in Applied Computing**](https://mscac.utoronto.ca/) at the esteemed University of Toronto, I bring a solid foundation in Software Engineering with professional experience. I am captivated by the realm of Cloud Computing and DevOps practices, seeking to revolutionize how we deploy applications in the modern era. To enhance my expertise, I have also obtained AWS associate-level certifications as a Solutions Architect and Developer, further bolstering my skills in the cloud computing domain. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, where I share my journey as an international student in Canada 🇨🇦.
-    imageUrl: "home/formal-pic-small.jpeg"
+    title: "Tanzeel"
+    subtitle: Hi 👋! I'm Tanzeel, an Assistant Systems Engineer at [**TCS**](https://www.tcs.com/), an IT services, consulting and business solutions organization.I bring a solid foundation in Software Engineering with professional experience. I have deep fascination for the captivating worlds of **User Experience (UX)** and **front-end development**. To enhance my expertise, I have also obtained several certifications, further bolstering my skills in the field of front end web development and UX. The ever-evolving tech landscape inspires me to explore innovative ways to engage users, enhance accessibility, and elevate digital interfaces to the next level. During my leisure hours, I love learning about new developments taking place in the field of Science and Technology through books, articles and video platforms like youtube. Other areas which interest me include Pyshcology and Philosophy.
+    imageUrl: "home/coding-freak.gif"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -67,14 +71,18 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:tanzeel.ahmed1306@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/tanzeel-ahmed-shaikh-1b633b12b/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
-    - name: "cv"
+      url: "https://github.com/Tanzeel159"
+    - name: "Behance"
+      url: "https://www.behance.net/tanzeelahmed11"
+    - name: "Dribble"
+      url: "https://dribbble.com/Tanzeel098"
+    - name: "Codepen"
+      url: "https://codepen.io/tanzeel098"
+    - name: "CV"
       url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
 
   # text search
