@@ -7,7 +7,7 @@ tags: ["Tensorflow Toolkit", "TensorBoard", "Protobuf", "LabellMG", "Python", "A
 showToc: false
 weight: 202
 cover:
-    image: "projects/real-time-object-detection/120095122-bf36b280-c141-11eb-8fbe-380d0a813ad9.jpeg"
+    image: "/projects/real-time-object-detection/120095122-bf36b280-c141-11eb-8fbe-380d0a813ad9.jpeg"
 ---
 
 🔗 [Github](https://github.com/Tanzeel159/Real-Time-Object-detection)

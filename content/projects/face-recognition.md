@@ -7,7 +7,7 @@ tags: ["Python", "Anaconda", "Microsoft Face API", "Azure Cloud", "Openpyxl", "S
 showToc: false
 weight: 201
 cover:
-    image: "projects/face-recognition/faces.png"
+    image: "/projects/face-recognition/faces.png"
 --- 
 🔗 [GitHub](https://github.com/Tanzeel159/Face-Recognition-Based-Attendance-System)
 
