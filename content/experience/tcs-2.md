@@ -5,7 +5,7 @@ dateString: Nov 2022 - Ongoing
 draft: false
 tags: ["Websphere Application Server", "Linux", "SSL Certificates", "PL/SQL", "Jenkins", "Tortoise SVN", "IBM Integration Desginer","Load Balancing","Oracle SQL Developer","Java"]
 showToc: false
-weight: 301
+weight: 201
 --- 
 
 ### Description
