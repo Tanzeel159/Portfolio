@@ -15,3 +15,4 @@ weight: 202
 - Carefully documented and reported the discovered findings.
 - These findings proved invaluable for subsequent analysis.
 - Coordinated with concerned teams to modify code-base in order to implement user change requests.
+
