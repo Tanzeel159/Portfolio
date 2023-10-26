@@ -21,6 +21,3 @@ Modern looking payment landing page which has an opening section, including grad
 
 ![Alt text](/projects/payment-landingpage/testimonial.png)
 
-## Page Overview
-
-![Alt text](/projects/payment-landingpage/page.gif)
