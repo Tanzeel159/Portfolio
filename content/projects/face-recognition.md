@@ -31,19 +31,19 @@ Azure Face API is used to detect, recognize and analyze human faces in images.
 
 Student Registration Flow
 
-![Alt text](/projects/image-1.png)
+![Alt text](/projects/face-recognition/image-1.png)
 
 Faculty Attendance Capture Flow
 
-![Alt text](/projects/image-2.png)
+![Alt text](/projects/face-recognition/image-2.png)
 
 Feature Extraction
 
-![Alt text](/projects/image-3.png)
+![Alt text](/projects/face-recognition/image-3.png)
 
 Generating Attendance
 
-![Alt text](/projects/image-4.png)
+![Alt text](/projects/face-recognition/image-4.png)
 
 
 ## Process

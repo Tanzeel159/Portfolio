@@ -24,7 +24,7 @@ When we're shown an image, our brain instantly recognizes the objects contained 
 4) During training, match the ground truth box with these predicted boxes based on IoU(Intersection over union).
 5) Instead of using all the negative examples, sort the results using the highest confidence loss for each default box and pick the top ones so that the ratio between the negatives and positives is at most 3:1.
 
-![Alt text](/projects/image.png)
+![Alt text](/projects/real-time-object-detection/image1.png)
 
 ## Implementation
 
@@ -40,4 +40,4 @@ When we're shown an image, our brain instantly recognizes the objects contained 
 
 ## Results
 
-<video src="/projects/Object_Detector.mp4" controls title="Title" width="705"></video>
+<video src="/projects/real-time-object-detection/Object_Detector.mp4" controls title="Title" width="705"></video>
