@@ -5,7 +5,7 @@ dateString: Oct 2023
 draft: false
 tags: ["Figma","HTML","Tailwind CSS","React.js","Vite","Node Js modules","Vercel"]
 showToc: false
-weight: 301
+weight: 401
 cover:
     image: "/projects/payment-landingpage/brave_3dUlEm87YP.png"
 --- 

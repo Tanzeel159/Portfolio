@@ -5,7 +5,7 @@ dateString: Sep 2023
 draft: false
 tags: ["Figma"]
 showToc: false
-weight: 302
+weight: 402
 cover:
     image: "/projects/food-delivery/Figma_FHTm7z9bhL.png"
 --- 

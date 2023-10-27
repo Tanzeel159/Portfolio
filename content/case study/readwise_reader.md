@@ -5,7 +5,7 @@ dateString: Aug 2023
 draft: false
 tags: []
 showToc: false
-weight: 101
+weight: 201
 cover:
     image: "/case study/readwise_reader/cover.jpg"
 ---

@@ -5,7 +5,7 @@ dateString: Sep 2018
 draft: false
 tags: ["Tensorflow Toolkit", "TensorBoard", "Protobuf", "LabellMG", "Python", "Anaconda","Tensorflow"]
 showToc: false
-weight: 305
+weight: 405
 cover:
     image: "/projects/real-time-object-detection/120095122-bf36b280-c141-11eb-8fbe-380d0a813ad9.jpeg"
 ---

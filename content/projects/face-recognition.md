@@ -5,7 +5,7 @@ dateString: Jan 2019
 draft: false
 tags: ["Python", "Anaconda", "Microsoft Face API", "Azure Cloud", "Openpyxl", "Sqlite3", "OpenCV","Microsoft Excel"]
 showToc: false
-weight: 304
+weight: 404
 cover:
     image: "/projects/face-recognition/faces.png"
 --- 
