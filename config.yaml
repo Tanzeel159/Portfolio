@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "Tanzeel"
-    subtitle: Hi 👋! I'm Tanzeel.I bring a solid foundation in Software Engineering with professional experience. I have deep fascination for the captivating worlds of **User Experience (UX)** and **front-end development**. The ever-evolving tech landscape inspires me to explore innovative ways to engage users, enhance accessibility, and elevate digital interfaces to the next level. During my leisure hours, I love learning about new developments taking place in the field of Science and Technology through books, articles and video platforms like youtube. Other areas which interest me include Pyshcology and Philosophy.
+    subtitle: Hi 👋! I'm Tanzeel.I have a strong foundation in Computer Science and Engineering with reasonable industry experience. I enjoy working on the visual part of websites **front-end** and making them user-friendly **UX**. It's something I'm really passionate about. The ever-evolving tech landscape inspires me to explore innovative ways to engage users, enhance accessibility, and elevate digital interfaces to the next level. During my leisure hours, I love learning about new developments taking place in the field of Science & Technology through books, articles and video platforms like youtube. Other areas which interest me include Pyshcology and Philosophy.
     imageUrl: "home/coding-freak.gif"
     imageWidth: 220
     imageHeight: 220
@@ -82,6 +82,8 @@ params:
       url: "https://dribbble.com/Tanzeel098"
     - name: "Codepen"
       url: "https://codepen.io/tanzeel098"
+    - name: "Google cloud"
+      url: "https://www.cloudskillsboost.google/public_profiles/e7f5169b-a013-48f5-bc5b-85b9f24a82ad"
     - name: "CV"
       url: "https://drive.google.com/file/d/10ho0zsrT6tLGCfi3SVK3tMKzGqDYqTYR/view?usp=drive_link"
 
