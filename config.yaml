@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "Tanzeel"
-    subtitle: Hi 👋! I'm Tanzeel.I have a strong foundation in Computer Science and Engineering with reasonable industry experience. I enjoy working on the visual part of websites **front-end** and making them user-friendly **UX**. It's something I'm really passionate about. The ever-evolving tech landscape inspires me to explore innovative ways to engage users, enhance accessibility, and elevate digital interfaces to the next level. During my leisure hours, I love learning about new developments taking place in the field of Science & Technology through books, articles and video platforms like youtube. Other areas which interest me include Pyshcology and Philosophy.
+    subtitle: Hi 👋! I'm Tanzeel.I have a strong foundation in Computer Science and Engineering with reasonable industry experience. I enjoy working on the visual part of websites **Frontend** and making them user-friendly **UX**. It's something I'm really passionate about. The ever-evolving tech landscape inspires me to explore innovative ways to engage users, enhance accessibility, and elevate digital interfaces to the next level. During my leisure hours, I love learning about new developments taking place in the field of Science & Technology through books, articles and video platforms like youtube. Other areas which interest me include Pyshcology and Philosophy.
     imageUrl: "home/coding-freak.gif"
     imageWidth: 220
     imageHeight: 220
