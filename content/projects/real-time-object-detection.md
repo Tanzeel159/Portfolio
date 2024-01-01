@@ -12,11 +12,11 @@ cover:
 
 🔗 [Github](https://github.com/Tanzeel159/Real-Time-Object-detection)
 
-## Description
+### Description
 
 When we're shown an image, our brain instantly recognizes the objects contained in it. On the other hand, it takes a lot of time and training data for a machine to identify these objects.The processing of visual data happens in the ventral visual stream.Humans can easily recognize different sized objects and put them in the same category. Object detection refers to the capability of computer and software systems to locate objects in an image/scene and identify each object. In this project we try to implement Object Detection using Single Shot Multibox Detector.Object detection has been widely used for face detection, vehicle detection, pedestrian counting, web images, security systems and driverless cars. Major features of SSD include object localization and classification in single step, bounding boxes to detect objects and detector.
 
-## Algorithm
+### Algorithm
 
 1) Pass the image through a series of convolutional layers
 2) For each location in each of these feature maps, use a 3x3 convolutional filter to evaluate a small set of default bounding boxes.
@@ -26,18 +26,18 @@ When we're shown an image, our brain instantly recognizes the objects contained 
 
 ![Alt text](/projects/real-time-object-detection/image1.png)
 
-## Implementation
+### Implementation
 
 ![SSD Model](/projects/real-time-object-detection/image.png)
 
-## Training
+### Training
 
 ![training](/projects/real-time-object-detection/training.png)
 
-## Labelling
+### Labelling
 
 ![Gathering image](/projects/real-time-object-detection/image_gather.png)
 
-## Results
+### Results
 
 <video src="/projects/real-time-object-detection/Object_Detector.mp4" controls title="Title" width="705"></video>

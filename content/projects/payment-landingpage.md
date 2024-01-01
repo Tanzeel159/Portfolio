@@ -13,11 +13,11 @@ cover:
 
 Modern looking payment landing page which has an opening section, including gradients, informative stats section showcasing number of users and transactions, including an engaging user testimonials section.
 
-## Product Section
+### Product Section
 
 ![Alt text](/projects/payment-landingpage/product.png)
 
-## Testimonials Section
+### Testimonials Section
 
 ![Alt text](/projects/payment-landingpage/testimonial.png)
 

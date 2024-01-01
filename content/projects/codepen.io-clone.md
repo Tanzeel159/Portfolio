@@ -12,7 +12,7 @@ cover:
 
 🔗 [Github](https://github.com/Tanzeel159/codepen)
 
-## Description
+### Description
 
 A dynamic web application built entirely with React. Inspired by the popular online code editor and developer playground, my clone combines the power of React with the versatility of CodeMirror.
 
