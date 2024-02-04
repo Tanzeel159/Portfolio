@@ -7,10 +7,10 @@ tags: ["Digital Garden","Obsidian","Github", "Syncthing","Quartz","Vercel","VS C
 showToc: false
 weight: 101
 cover:
-    image: "/blog/digital-garden/brave_GD5GBLU5g4.png"
+    image: "/blog/digital-garden/brave_QXXWAXmH8Z.png"
 ---
 
-🔗 [Digital Garden](https://digital-garden-tanzeel.vercel.app/)
+🔗 [Digital Garden](https://digital-garden-2-0.pages.dev/)
 
 ## Features
 
@@ -25,3 +25,5 @@ cover:
 ## Graph View
 
 ![Alt text](/blog/digital-garden/brave_eqf9fqtM5R.png)
+
+![Alt text](/blog/digital-garden/brave_8uy1gFMzEw.png)
