@@ -10,7 +10,7 @@ cover:
     image: "/blog/digital-garden/brave_QXXWAXmH8Z.png"
 ---
 
-🔗 [Digital Garden](https://digital-garden-2-0.pages.dev/)
+🔗 [Digital Garden](https://digital-garden-8a7.pages.dev/)
 
 ## Features
 
