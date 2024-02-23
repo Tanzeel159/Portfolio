@@ -1,6 +1,6 @@
 ---
 title: "Payment Landing Page"
-description: "Basic Food Delivery mobile app designed using Figma"
+description: "Payment landing page showcasing user-friendly interface for secure and efficient online transactions"
 dateString: Oct 2023
 draft: false
 tags: ["Figma","HTML","Tailwind CSS","React.js","Vite","Node Js modules","Vercel"]
