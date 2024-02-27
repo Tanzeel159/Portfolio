@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tanzeel</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tanzeel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Garden</title>
+      <link>http://localhost:1313/blog/digital-garden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/digital-garden/</guid>
+      <description>Digital Garden is an intersection of a notebook and a blog</description>
+    </item>
+    
+    <item>
+      <title>Improving User Experience through Web Performance</title>
+      <link>http://localhost:1313/blog/performance-metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/performance-metrics/</guid>
+      <description>Elevating experiences by accelerating web performance</description>
+    </item>
+    
+    <item>
+      <title>Readwise Reader</title>
+      <link>http://localhost:1313/case-study/readwise_reader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/case-study/readwise_reader/</guid>
+      <description>read-it-later app to streamline all reading in one place</description>
+    </item>
+    
+    <item>
+      <title>System Engineer</title>
+      <link>http://localhost:1313/experience/tcs-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/tcs-3/</guid>
+      <description>Tata Consultancy Services(TCS)</description>
+    </item>
+    
+    <item>
+      <title>Assistant System Engineer</title>
+      <link>http://localhost:1313/experience/tcs-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/tcs-2/</guid>
+      <description>Tata Consultancy Services(TCS)</description>
+    </item>
+    
+    <item>
+      <title>Assistant System Engineer Trainee</title>
+      <link>http://localhost:1313/experience/tcs-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/tcs-1/</guid>
+      <description>Tata Consultancy Services(TCS)</description>
+    </item>
+    
+    <item>
+      <title>Payment Landing Page</title>
+      <link>http://localhost:1313/projects/payment-landingpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/payment-landingpage/</guid>
+      <description>Payment landing page showcasing user-friendly interface for secure and efficient online transactions</description>
+    </item>
+    
+    <item>
+      <title>Food Delivery App</title>
+      <link>http://localhost:1313/projects/food-delivery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/food-delivery/</guid>
+      <description>Basic Food Delivery mobile app designed using Figma</description>
+    </item>
+    
+    <item>
+      <title>Codepen.io Clone</title>
+      <link>http://localhost:1313/projects/codepen.io-clone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/codepen.io-clone/</guid>
+      <description>A web-based code editor and playground for live coding</description>
+    </item>
+    
+    <item>
+      <title>Face Recognition Based Attendance System</title>
+      <link>http://localhost:1313/projects/face-recognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/face-recognition/</guid>
+      <description>Using face recognition to mark attendance</description>
+    </item>
+    
+    <item>
+      <title>Real Time Object Detection</title>
+      <link>http://localhost:1313/projects/real-time-object-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/real-time-object-detection/</guid>
+      <description>Object detection</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/books/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/books/books/</guid>
+      <description>This is my virtual Bookshelf! Here, you&amp;#39;ll find a curated collection of the books that have shaped my thinking and fueled my imagination 📚✨</description>
+    </item>
+    
+    
+  </channel>
+</rss>
